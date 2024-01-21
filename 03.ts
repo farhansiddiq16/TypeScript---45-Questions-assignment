@@ -6,7 +6,7 @@
 
 
 let firstName = "Farhan Siddiq"
-    console.log(firstName.toLocaleLowerCase())
+    console.log(firstName.toLowerCase())
 
     console.log(firstName.toUpperCase())
 
